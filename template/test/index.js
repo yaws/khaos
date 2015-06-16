@@ -1,4 +1,6 @@
+var {{basename}} = require('..')
+var assert = require('assert')
 
-var assert = require('assert');
+describe('{{basename}}', function () {
 
-describe('{{basename}}', function(){});
+})

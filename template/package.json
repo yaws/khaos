@@ -2,12 +2,16 @@
   "name": "{{basename}}",
   "description": "{{description}}",
   "repository": "git://github.com/{{repository}}.git",
-  "version": "0.0.0",{{#mit}}
+  "version": "0.1.0",{{#mit}}
   "license": "MIT",{{/mit}}
   "main": "lib/index.js",
   "dependencies": {},
   "devDependencies": {
     "mocha": "2.x",
     "standard": "^4.0.0"
+  },
+  "engines": {
+    "node": "~0.10.38",
+    "npm": "~2.9.0"
   }
 }
