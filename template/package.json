@@ -1,5 +1,5 @@
 {
-  "name": "{{basename}}",
+  "name": "@themang/{{basename}}",
   "description": "{{description}}",
   "repository": "git://github.com/{{repository}}.git",
   "version": "0.1.0",{{#mit}}

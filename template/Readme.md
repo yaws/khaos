@@ -7,7 +7,7 @@
 
 ## Installation
 
-    $ npm install {{basename}}
+    $ npm install @themang/{{basename}}
 
 {{#mit}}
 ## License
