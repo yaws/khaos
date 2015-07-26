@@ -7,7 +7,7 @@ A Khaos template to start new node.js projects quickly.
 
 Save the template locally with:
 
-    $ khaos install weo-edu/khaos-node node
+    $ khaos install @themang/khaos-node node
 
 ## Usage
 
