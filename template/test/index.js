@@ -2,7 +2,7 @@
  * Imports
  */
  
-var {{basename}} = require('..')
+var {{camelcase basename}} = require('..')
 var test = require('tape')
 
 /**
