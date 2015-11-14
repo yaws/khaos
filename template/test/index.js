@@ -1,6 +1,14 @@
+/**
+ * Imports
+ */
+ 
 var {{basename}} = require('..')
-var assert = require('assert')
+var test = require('tape')
 
-describe('{{basename}}', function () {
-
+/**
+ * Tests
+ */
+ 
+test('should work', function (t) {
+  
 })
