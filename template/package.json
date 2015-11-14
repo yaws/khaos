@@ -1,5 +1,5 @@
 {
-  "name": "@themang/{{basename}}",
+  "name": "{{basename}}",
   "description": "{{description}}",
   "repository": "git://github.com/{{repository}}.git",
   "version": "0.1.0",{{#mit}}
@@ -7,7 +7,7 @@
   "main": "lib/index.js",
   "dependencies": {},
   "devDependencies": {
-    "mocha": "2.x",
+    "tape": "^4.2.0",
     "standard": "^4.0.0"
   }
 }
