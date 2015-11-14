@@ -7,15 +7,15 @@
  */
 
 /**
- * Expose {{basename}}
+ * Expose {{camelcase basename}}
  */
 
-module.exports = {{basename}}
+module.exports = {{camelcase basename}}
 
 /**
- * {{basename}}
+ * {{camelcase basename}}
  */
 
-function {{basename}} () {
+function {{camelcase basename}} () {
 
 }
