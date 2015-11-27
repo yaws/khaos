@@ -2,9 +2,7 @@
  * Modules
  */
 
-/**
- * Vars
- */
+
 
 /**
  * Expose {{camelcase basename}}
