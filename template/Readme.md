@@ -10,7 +10,7 @@
 
 ## Installation
 
-    $ npm install {{#unless npm}}micro-js/{{/unless}}{{basename}}
+    $ npm install micro-js/{{basename}}
 
 ## Usage
 
