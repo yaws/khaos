@@ -2,8 +2,6 @@
  * Modules
  */
 
-
-
 /**
  * Expose {{camelcase basename}}
  */
