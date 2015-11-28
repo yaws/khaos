@@ -1,9 +1,9 @@
 
 # {{basename}}
 
-[![Code style][standard-image]][standard-url]
-[![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
+[![NPM version][npm-image]][npm-url]
+[![Code style][standard-image]][standard-url]
 
 {{description}}
 
