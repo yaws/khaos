@@ -19,7 +19,7 @@ var {{camelcase basename}} = require('{{basename}}')
 
 ```
 
-## Api
+## API
 
 ### {{camelcase basename}}(arg)
 
