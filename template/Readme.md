@@ -21,10 +21,9 @@ var {{camelcase basename}} = require('{{basename}}')
 
 ## Api
 
-### {{camelcase basename}}(arg1, arg2)
+### {{camelcase basename}}(arg)
 
-- `arg1` -
-- `arg2` -
+- `arg` -
 
 **Returns:**
 
