@@ -10,4 +10,4 @@
  * Exports
  */
 
-export default {{basename}}
+export default {{camelcase basename}}
